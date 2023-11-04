@@ -3,10 +3,10 @@
 
 </p>
 <h1 align="center">
-  <b>Channel-Post-Filter</b>
+  <b>Channel-Post-Filter By Vansh-Yadav Some error Fixed</b>
 </h1>
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@moviekorner_1](t.me/moviekorner_1)
 
 ## Telegram 
 
