@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CHANNEL+POST+FILTER+BOT!;CREATED+BY+TECHNICAL+CYNITE!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CHANNEL+POST+FILTER+BOT!;CREATED+BY+VANSH+YADAV!)
 </p>
 
 </p>
@@ -6,7 +6,7 @@
   <b>Channel-Post-Filter</b>
 </h1>
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@Vip_bro10](t.me/vip_bro10)
 
 ## Telegram 
 
